@@ -4,7 +4,7 @@
 项目中设置了一个管理员，用户名和密码都为admin  
 数据库信息的sql放在了sql目录下  
   
-数据库：mysql8.0
-数据库连接池：druid 1.1.10
-页面：jsp
+数据库：mysql8.0  
+数据库连接池：druid 1.1.10  
+页面：jsp  
 数据库操作使用dbutils的queryRunner完成  
